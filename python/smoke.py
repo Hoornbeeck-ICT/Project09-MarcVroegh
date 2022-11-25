@@ -1,3 +1,4 @@
+///Rook detector python script
 import time
 import Adafruit_ADS1x15
 import mysql.connector
