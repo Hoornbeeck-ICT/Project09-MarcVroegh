@@ -4,8 +4,8 @@ import Adafruit_ADS1x15
 import mysql.connector
 from twilio.rest import Client
 
-account_sid = "ACf9638a450d01bb800d2d1cd0e579eae7"
-auth_token = "245da23c3449af1bb2106b44ee7ce934"
+account_sid = ""
+auth_token = ""
 
 adc = Adafruit_ADS1x15.ADS1115()
 
