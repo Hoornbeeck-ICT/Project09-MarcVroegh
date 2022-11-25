@@ -1,3 +1,4 @@
+///Python script die bewegingen van twee beweging sensoren in de database zet.
 import RPi.GPIO as GPIO
 import time
 import mysql.connector
