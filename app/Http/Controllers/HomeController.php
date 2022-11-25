@@ -1,3 +1,4 @@
+///Fetcht alle data die nodig is voor de home view en returnt de view home met die data
 <?php
 
 namespace App\Http\Controllers;
