@@ -1,3 +1,4 @@
+///Python script die data van twee schakelaars in de database zet.
 import  RPi.GPIO as GPIO
 import time
 import mysql.connector
