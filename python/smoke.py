@@ -38,9 +38,9 @@ while True:
      value = 80000
      client = Client(account_sid, auth_token)
      call = client.calls.create(
-     from_='(425) 600-6813',
-     to='31616638215',
-     url='https://handler.twilio.com/twiml/EHba907849012cffd86b60c07fba52df1e'
+     from_='',
+     to='',
+     url=''
      )
      time.sleep(5)
  value2 = value
