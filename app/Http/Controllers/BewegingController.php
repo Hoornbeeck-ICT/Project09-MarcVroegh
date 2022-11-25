@@ -1,3 +1,4 @@
+///Controller waarin word uitgerekend hoe lang er beweging is geweest en waar alle bewegingen worden opgevraagd
 <?php
 
 namespace App\Http\Controllers;
