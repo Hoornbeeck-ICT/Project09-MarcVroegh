@@ -1,3 +1,4 @@
+//probeersel om alle scripts tegelijk te runnen
 import subprocess
 
 p1 = subprocess.Popen(['motion2.py'])
