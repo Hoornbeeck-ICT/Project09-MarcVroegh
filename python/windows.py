@@ -51,3 +51,4 @@ while True:
        mydb.commit()
        ii = 0
        time.sleep(1)
+        
