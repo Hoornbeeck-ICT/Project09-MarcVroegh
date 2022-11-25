@@ -1,3 +1,4 @@
+//Berekent hoe vaak de ramen per jaar en dag gebruikt zijn en haalt alle 20 laatste data van database op en returnt view ramen met die data
 <?php
 
 namespace App\Http\Controllers;
